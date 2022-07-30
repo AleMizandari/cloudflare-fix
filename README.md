@@ -1,4 +1,4 @@
-<div align="center"><img src="image.PNG" 
+<div align="center"><img src="image.PNG" </div>
 
 ## What does ufw.sh allow:
 * Gets the latest IPv4 and IPv6 lists from Cloudflare. Every week they change their IPs and therefore new information needs to be added every week.

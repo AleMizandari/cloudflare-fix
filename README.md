@@ -11,11 +11,11 @@
 ``` Open command prompt ```
 ### Then type ``` ssh root@ [ip] ```
 
-### Do the commands before running the program
-**sudo su**
-**chmod +x ./ufw.sh** 
-**ufw default deny incoming**
-**ufw default allow outgoing**
-**ufw allow from 192.168.1.0/24**
-**ufw enable**
-**./ufw.sh**
+## Do the commands before running the program
+* sudo su
+* chmod +x ./ufw.sh 
+* ufw default deny incoming
+* ufw default allow outgoing
+* ufw allow from 192.168.1.0/24
+* ufw enable
+* ./ufw.sh

@@ -8,12 +8,12 @@
 
 
 # Before running this script, these commands must be written:
-### Open command prompt
-### then type ssh root@ [ip]
-### sudo su
-### chmod +x ./ufw.sh
-### ufw default deny incoming
-### ufw default allow outgoing
-### ufw allow from 192.168.1.0/24
-### ufw enable
-### ./ufw.sh
+``` Open command prompt ```
+``` then type ssh root@ [ip] ```
+``` sudo su ```
+``` chmod +x ./ufw.sh ```
+``` ufw default deny incoming ```
+``` ufw default allow outgoing ```
+``` ufw allow from 192.168.1.0/24 ```
+``` ufw enable ```
+``` ./ufw.sh ```

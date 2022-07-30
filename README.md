@@ -9,7 +9,9 @@
 
 ## Before running this script, these commands must be written:
 * Open command prompt 
-## Then type * ssh root@ [ip] 
+## Then type 
+* ssh root@ [ip]
+* Password: 
 
 ## Do the commands before running the program
 * sudo su

@@ -9,7 +9,8 @@
 
 # Before running this script, these commands must be written:
 ``` Open command prompt ```
-``` then type ssh root@ [ip] ```
+### then type ``` ssh root@ [ip] ```
+
 ``` sudo su ```
 ``` chmod +x ./ufw.sh ```
 ``` ufw default deny incoming ```
